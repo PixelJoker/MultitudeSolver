@@ -1,0 +1,10 @@
+C:\Users\Анатолий\source\repos\MultitudeSolve\MultitudeSolve\obj\Debug\MultitudeSolve.csprojAssemblyReference.cache
+C:\Users\Анатолий\source\repos\MultitudeSolve\MultitudeSolve\obj\Debug\MultitudeSolve.MainForm.resources
+C:\Users\Анатолий\source\repos\MultitudeSolve\MultitudeSolve\obj\Debug\MultitudeSolve.Properties.Resources.resources
+C:\Users\Анатолий\source\repos\MultitudeSolve\MultitudeSolve\obj\Debug\MultitudeSolve.csproj.GenerateResource.cache
+C:\Users\Анатолий\source\repos\MultitudeSolve\MultitudeSolve\obj\Debug\MultitudeSolve.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\source\repos\MultitudeSolve\MultitudeSolve\bin\Debug\MultitudeSolve.exe.config
+C:\Users\Анатолий\source\repos\MultitudeSolve\MultitudeSolve\bin\Debug\MultitudeSolve.exe
+C:\Users\Анатолий\source\repos\MultitudeSolve\MultitudeSolve\bin\Debug\MultitudeSolve.pdb
+C:\Users\Анатолий\source\repos\MultitudeSolve\MultitudeSolve\obj\Debug\MultitudeSolve.exe
+C:\Users\Анатолий\source\repos\MultitudeSolve\MultitudeSolve\obj\Debug\MultitudeSolve.pdb

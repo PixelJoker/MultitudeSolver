@@ -1,0 +1,9 @@
+C:\Users\Анатолий\source\repos\MultitudeSolve\MultitudeSolve.BL\obj\Debug\netstandard2.0\MultitudeSolve.BL.csprojAssemblyReference.cache
+C:\Users\Анатолий\source\repos\MultitudeSolve\MultitudeSolve.BL\obj\Debug\netstandard2.0\MultitudeSolve.BL.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\source\repos\MultitudeSolve\MultitudeSolve.BL\obj\Debug\netstandard2.0\MultitudeSolve.BL.AssemblyInfoInputs.cache
+C:\Users\Анатолий\source\repos\MultitudeSolve\MultitudeSolve.BL\obj\Debug\netstandard2.0\MultitudeSolve.BL.AssemblyInfo.cs
+C:\Users\Анатолий\source\repos\MultitudeSolve\MultitudeSolve.BL\bin\Debug\netstandard2.0\MultitudeSolve.BL.deps.json
+C:\Users\Анатолий\source\repos\MultitudeSolve\MultitudeSolve.BL\bin\Debug\netstandard2.0\MultitudeSolve.BL.dll
+C:\Users\Анатолий\source\repos\MultitudeSolve\MultitudeSolve.BL\bin\Debug\netstandard2.0\MultitudeSolve.BL.pdb
+C:\Users\Анатолий\source\repos\MultitudeSolve\MultitudeSolve.BL\obj\Debug\netstandard2.0\MultitudeSolve.BL.dll
+C:\Users\Анатолий\source\repos\MultitudeSolve\MultitudeSolve.BL\obj\Debug\netstandard2.0\MultitudeSolve.BL.pdb
